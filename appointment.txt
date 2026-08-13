@@ -1,0 +1,8 @@
+Healthcare application 
+Features: Doctor Appointment Booking
+
+Patient Can:
+-Select a doctor
+-Select an available date and time 
+-Book an appointment
+-Recieve appointment confirmation
